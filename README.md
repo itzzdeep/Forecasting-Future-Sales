@@ -17,6 +17,3 @@ The data is provided as daily historical sales data. The task is to forecast the
 * item_name - name of item
 * shop_name - name of shop
 * item_category_name - name of item category
-
-
-### Dependencies
